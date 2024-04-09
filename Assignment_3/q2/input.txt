@@ -1,0 +1,10 @@
+insert 1 Sunil CSIS 8.4
+insert 3 Alex EEE 9.0
+insert 2 Megha Mechanical 7.0
+save abc.txt
+dump
+delete 3
+delete 3
+insert 1 Faizal Physics 8.9
+stats
+display 1
